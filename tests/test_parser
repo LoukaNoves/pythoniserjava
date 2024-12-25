@@ -1,0 +1,16 @@
+import unittest
+from parser import parse_python_code
+
+class TestParser(unittest.TestCase):
+    def test_parse_valid_code(self):
+        python_code = "def add(a, b): return a + b"
+        tree = parse_python_code(python_code)
+        self.assertIsNotNone(tree)
+
+    def test_parse_invalid_code(self):
+        python_code = "def add(a, b): return a + "
+        tree = parse_python_code(python_code)
+        self.assertIsNone(tree)
+
+if __name__ == '__main__':
+    unittest.main()
