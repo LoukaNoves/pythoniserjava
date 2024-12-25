@@ -16,4 +16,4 @@ This license allows you to use, modify, and publish the code for non-commercial 
 
 ## Contact
 
-For any questions or inquiries, please contact Louka Novès at [your-email@example.com].
+For any questions or inquiries, please contact Louka Novès at (louka.noves@protonmail.com].
