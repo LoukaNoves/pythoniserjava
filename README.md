@@ -56,4 +56,4 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 ## License
 
-This project is licensed under a personalized license. See the [LICENSE](LICENSE) file for details.
+This project is licensed under a personalized license. See the LICENSE.md file for details.
